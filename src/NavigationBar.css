@@ -1,0 +1,48 @@
+/* Header styles */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: #35495e; 
+  color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+/* Logo styles */
+.logo {
+  font-size: 24px;
+  padding-right: 20px;
+  color: #f0a500; 
+}
+
+/* Search bar styles */
+.search-bar {
+  padding: 0.6rem; 
+  border: 2px solid #f0a500;
+  border-radius: 0.3rem;
+  width: 100%;
+  color: #333; 
+  font-size: 16px; 
+}
+
+/* Options styles */
+.options {
+  margin-left: auto; 
+}
+
+/* Option styles */
+.option {
+  background-color: #f0a500; 
+  color: #ffffff; 
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+/* Header image styles */
+.header-img {
+  width: 100%;
+  max-width: 100%; 
+}
